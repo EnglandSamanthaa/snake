@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('img/background-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+canvas{
+    
+    box-shadow: rgb(5, 247, 17) 15px 15px 40px;
+}
+
+/*h1{
+    color: rgb(7, 1, 29);
+    font-family: 'Bungee Inline', cursive;
+    font-size: 75px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}*/
+
